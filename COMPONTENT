@@ -1,0 +1,16 @@
+Component	Pin Label	Uno Pin	Notes
+
+Motor Driver	ENA	5	PWM (Speed control)
+
+IN1, IN2	6, 7	Left Motor Direction
+
+IN3, IN4	8, 9	Right Motor Direction
+
+ENB	10	PWM (Speed control)
+
+IR Sensors	Left (OUT)	A0	Analog Read for PID
+
+Right (OUT)	A1	Analog Read for PID
+
+Power	12V / GND	VIN / GND	Connect shared GND to Uno
+
